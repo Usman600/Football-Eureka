@@ -162,5 +162,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you have any questions or suggestions, feel free to contact:
 
 - **Name**: Muhammad Usman HUssain
-- **GitHub**: [SyedSubhan12](https://github.com/Usman600)
+- **GitHub**: [MuhammadUsmanHussain](https://github.com/Usman600)
 - **Email**: shiekhusman677@gmail.com
